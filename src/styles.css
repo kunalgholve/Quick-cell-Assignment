@@ -1,0 +1,48 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .img {
+    display: flex;
+    align-items: flex-start;
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    border-style:dotted;
+    border-radius: 50%;
+    border-color: black;
+    margin: -5px;
+    display: inline-block;
+  }
+  
+  .img-right {
+    display: flex;
+    align-items: flex-start;
+    float: right;
+    height: 120px;
+    border-style:dotted;
+
+    width: 120px;
+    background-color: black;
+    border-radius: 50%;
+    margin: -5px;
+    display: inline-block;
+  }
+  
+  .div {
+    height: 60%;
+    border-style: solid;
+    border-color: black;
+
+    border:10px;
+    width: 100%;
+    margin: 10px;
+    background-color: black;
+    padding:10px;
+  }
+  
+  .item {
+    margin: 10px;
+  }
+  
